@@ -1,0 +1,15 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "A sample to test e2e using Cypress",
+  "main": "test_1.spec.js",
+  "scripts": {
+    "cypress": "node_modules/.bin/cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Srivastava",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.7.0"
+  }
+}
