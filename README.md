@@ -3,9 +3,9 @@ A sample to test e2e using Cypress
 
 ## Run these commands in terminal to run setup and run the project in local system
 ```
-$ git clone https://github.com/omsrivastava/node-js-playlist.git
+$ git clone https://github.com/omsrivastava/cypress-test.git
 
-$ cd node-js-playlist/
+$ cd cypress-test/
 
 $ npm install
 
